@@ -1,3 +1,3 @@
 # Utility-App
 
-Demo Link:- https://replit.com/@himanshurhlk57/EatXtra?v=1
+Demo Link:- https://replit.com/@himanshurhlk57/UtilityApp#index.js?lite=1&outputonly=1
