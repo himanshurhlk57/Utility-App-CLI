@@ -75,7 +75,7 @@ const sha256 = (sha256Value) => {
 };
 
 const sha512 = (sha512Value) => {
-  const algo = "md5";
+  const algo = "sha-512";
   const hashValue = crypto.createHash(algo).update(sha512Value).digest("hex");
   console.log(hashValue);
 };
